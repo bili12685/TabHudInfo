@@ -13,7 +13,7 @@ Plugin's thread: https://forums.alliedmods.net/showthread.php?p=2702917
 
 添加了中文支持，删除了商店点数显示
 
-添加了服务器标签，可以通过修改sp文件重新编译来删除
+添加了ottogame服务器标签，可以通过修改sp文件重新编译来删除
 
 源插件地址:
 https://forums.alliedmods.net/showthread.php?p=2702917
